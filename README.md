@@ -129,7 +129,7 @@ tests/           automated tests
 
 | Version | Golden set score | Notes |
 |---|---|---|
-| M1: model only, no documents | _TBD_ / 20 | Baseline |
+| M1: model only, no documents | 12 / 20 | Baseline |
 
 Each milestone adds a row, so improvements are measured rather than claimed.
 
